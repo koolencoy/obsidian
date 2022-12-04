@@ -6,7 +6,7 @@
       {
         "id": "1f82a26449a67e36",
         "type": "tabs",
-        "dimension": 45.05730659025788,
+        "dimension": 59.38395415472779,
         "children": [
           {
             "id": "fd0fa4746be2b61b",
@@ -19,13 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "827fa658130fa872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic/elastic local.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bdd3f3f387020b44",
         "type": "tabs",
-        "dimension": 54.94269340974212,
+        "dimension": 40.61604584527221,
         "children": [
           {
             "id": "52ee580e39971f12",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic/elasticsearch.md",
+                "file": "Elastic/elastic local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastic/elasticsearch.md",
+                "file": "Elastic/elastic local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/elasticsearch.md"
+                "file": "Elastic/elastic local.md"
               }
             }
           },
@@ -166,10 +179,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "fd0fa4746be2b61b",
+  "active": "827fa658130fa872",
   "lastOpenFiles": [
-    "Elastic/exam.md",
     "Elastic/elasticsearch.md",
+    "Elastic/exam.md",
     "2022-12-04.md"
   ]
 }
