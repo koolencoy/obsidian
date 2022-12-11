@@ -180,10 +180,10 @@
   },
   "active": "4a3e34301fac6d33",
   "lastOpenFiles": [
-    "Elastic/elasticsearch.md",
-    "Elastic/elastic local.md",
-    "Elastic/kibana.md",
     "Elastic/exam.md",
+    "Elastic/elastic local.md",
+    "Elastic/elasticsearch.md",
+    "Elastic/kibana.md",
     "2022-12-04.md"
   ]
 }
