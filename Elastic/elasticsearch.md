@@ -1,4 +1,6 @@
-commands 123
+
+
+start elasticearch
 
 
 
