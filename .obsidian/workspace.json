@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7411796d0de0b73c",
@@ -168,10 +167,10 @@
   },
   "active": "4a3e34301fac6d33",
   "lastOpenFiles": [
-    "Elastic/exam.md",
+    "Elastic/kibana.md",
     "Elastic/elasticsearch.md",
     "Elastic/elastic local.md",
-    "Elastic/kibana.md",
+    "Elastic/exam.md",
     "2022-12-04.md"
   ]
 }

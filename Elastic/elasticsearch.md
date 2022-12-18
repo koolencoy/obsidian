@@ -2,6 +2,9 @@
 
 start elasticearch
 
+commands:
+
+GET _cat/tasks
 
 
 create aggregation counts number of blogs for each day of the week.
