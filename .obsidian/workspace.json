@@ -6,7 +6,7 @@
       {
         "id": "1f82a26449a67e36",
         "type": "tabs",
-        "dimension": 48.109517601043024,
+        "dimension": 48.10951760104303,
         "children": [
           {
             "id": "4a3e34301fac6d33",
@@ -164,6 +164,16 @@
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
   "active": "4a3e34301fac6d33",
   "lastOpenFiles": [
