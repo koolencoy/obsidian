@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "904144e85e98a5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "717d34561a4c5d9a",
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic/elasticsearch.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastic/elasticsearch.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/elasticsearch.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -175,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a3e34301fac6d33",
+  "active": "904144e85e98a5fe",
   "lastOpenFiles": [
-    "Elastic/kibana.md",
     "Elastic/elasticsearch.md",
+    "Elastic/kibana.md",
     "Elastic/elastic local.md",
     "Elastic/exam.md",
     "2022-12-04.md"
